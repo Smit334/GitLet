@@ -1,0 +1,6 @@
+I prelude1.inc
++ hell.txt conflict5.txt
+> add hell.txt
+<<<
+> commit "hello gadhni"
+<<<

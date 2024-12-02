@@ -1,0 +1,6 @@
+I setup2.inc
++ hello.txt conflict1.txt
+> add hello.txt
+<<<
+> commit "hello gadhi"
+<<<

@@ -1,0 +1,9 @@
+I prelude1.inc
++ ola.txt conflict3.txt
+> add ola.txt
+<<<
+> rm ola.txt
+<<<
+> commit "hello gadhnisang"
+No changes added to the commit.
+<<<
